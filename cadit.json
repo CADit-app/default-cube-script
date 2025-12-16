@@ -1,0 +1,16 @@
+{
+  "entryPoint": "main.ts",
+  "name": "Default cube script",
+  "description": "Just a default cube script, uploaded as a test.",
+  "images": [
+    {
+      "path": "images/thumbnail.png",
+      "isPrimary": true
+    }
+  ],
+  "metadata": {
+    "createdAt": "2025-12-16T15:10:36.659Z",
+    "createdWith": "cadit-web",
+    "designId": "HXnVKMmdROBcqgf"
+  }
+}

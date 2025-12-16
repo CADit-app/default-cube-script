@@ -1,2 +1,19 @@
-# default-cube-script
+# Default cube script
+
 Just a default cube script, uploaded as a test.
+
+## Installation
+
+```bash
+npm install github:cadit-app/default-cube-script#v1.0.0
+```
+
+## Usage
+
+```typescript
+import { /* your exports */ } from '@cadit-app/default-cube-script';
+```
+
+## License
+
+MIT
